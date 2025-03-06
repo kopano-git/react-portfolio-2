@@ -39,6 +39,7 @@ function Hero() {
                     <img src={linkedinIcon} style={{ width: "50px", height: "50px" }} alt="linkedinIcon" />
                 </a>
                 <a href="https://shapapiece.co.za" target="_blank">
+                <a href="https://www.shapapiece.co.za/" target="_blank">
                     <img src={shapapieceIcon} style={{ width: "60px", height: "60px" }} alt="shapapieceIcon" />
                 </a>
             </span>
