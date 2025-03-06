@@ -19,8 +19,13 @@ function Projects() {
       h3='Task Management'
       p='To-do list web/app '/> 
 
+     <ProjectCard src={brand2} link=''
       h3='Clouds & Sunsets'
       p='Brand Development'/>
+
+     <ProjectCard src={shapapiece} link='https://shapapiece.co.za'
+      h3='Shapapiece'
+      p='Ecommerce Website'/>
       </div>
     </section>
   )
